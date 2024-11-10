@@ -1,5 +1,14 @@
 # End-to-End Data Science Project
 
+# In order to run this project 
+- git clone <url>
+- Create a python virtual Environment (recommended conda environment) & activate it
+- pip install -r requirements.txt
+- python app.py
+- Follow the url to open flask app
+- hit the `/train` (you'll be able to train the url from flask app itself with '/train' route)
+- go back to homepage and enter the custom values and click predict.
+
 ### Workflows--ML Pipeline
 
 1. Data Ingestion
